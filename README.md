@@ -25,12 +25,3 @@ Windows • Linux • Redes • Help Desk
 - 📧 Email: viniciusbritoperico12@gmail.com
 
 ---
-
-## 📊 GitHub Stats
-
-![Vinícius GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusperico&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusperico&layout=compact&theme=default)
-
----
-
