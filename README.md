@@ -6,16 +6,9 @@ Sou profissional de **Tecnologia da Informação**, atuando com **infraestrutura
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-**Front-end**  
-HTML • CSS • JavaScript • React
-
-**Back-end / Dados**  
-Node.js 
-
-**Infra & Suporte**  
-Windows • Linux • Redes • Help Desk
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusperico&layout=compact&theme=default)
 
 ---
 
